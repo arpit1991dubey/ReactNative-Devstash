@@ -18,8 +18,8 @@ Let's create a new React Native project called "FirstApp":
 S-1. Create a new folder with a app name and open VS code in the current folder
 S-2. Once in the current folder on VS code open a new terminal from the top toolbar
 S-3. In the current termical execute - npm install react-native-cli
-S-4. In the termical copy the following command - npx react-native init FirstApp
-![](IMAGES/I-1.JPG)
+S-4. In the termical copy the following command - npx react-native init FirstApp  
+![](Chap-1.-Getting-Started-With-RN/IMAGES/I-1.JPG)
 S-5. FirstApp is the name of your newly created app , the setup process may take a while to finish depending on internet speed.In case you face any issues try googling  it or drop a text in whatsapp group
 
 **Running your app**
