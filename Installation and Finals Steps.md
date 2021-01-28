@@ -6,7 +6,7 @@ If they are not installed, you should expect to spend about an hour installing a
 
 This tutorial assumes that you have Android studio with an virtual device or a physical device configured to android studio , up and running also you must have node installed on your machine.  
 
-**Creating a new application**  
+# **Creating a new application**
 
 #If you previously installed a global react-native-cli package, please remove it as it may cause unexpected issues.  
 
@@ -19,15 +19,21 @@ S-1. Create a new folder with a app name and open VS code in the current folder
 S-2. Once in the current folder on VS code open a new terminal from the top toolbar  
 S-3. In the current termical execute - npm install react-native-cli  
 S-4. In the termical copy the following command - npx react-native init FirstApp  
+
 ![](IMAGES/I-1.JPG)  
+
 S-5. FirstApp is the name of your newly created app , the setup process may take a while to finish depending on internet speed.In case you face any issues try googling  it or drop a text in whatsapp group  
-![](IMAGES/i-2.JPG)  
+  
 ![](IMAGES/i-3.JPG)  
+
 **Running your app**  
 Once your setup has been completed , move to your app directory and execute the folloowing command based on your machine type.  
  Windows - npx react-native run-android  
  IOS - npx react-native run-ios — simulator=”iPhone X”  
- ![](IMAGES/i-4.JPG)
+ 
+ ![](IMAGES/i-2.JPG)  
+ 
+ ![](IMAGES/i-4.JPG)  
 
 **Modifying your app**  
 
@@ -35,7 +41,8 @@ Now that you have successfully run the app, let's modify it.
 
     S-1. Open App.js in your VS Code and edit some lines as per your choice to see the changes happening on your device.  
     S-2. Press the R key twice or select Reload from the Developer Menu (Ctrl + M) to see your changes!  
-     ![](IMAGES/i-5.JPG)
+
+![](IMAGES/i-5.JPG)
 
 That's it!  
 
