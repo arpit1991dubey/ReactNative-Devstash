@@ -6,7 +6,7 @@ If they are not installed, you should expect to spend about an hour installing a
 
 This tutorial assumes that you have Android studio with an virtual device or a physical device configured to android studio , up and running also you must have node installed on your machine.  
 
-# **Creating a new application**
+# Creating a new application
 
 #If you previously installed a global react-native-cli package, please remove it as it may cause unexpected issues.  
 
@@ -26,7 +26,7 @@ S-5. FirstApp is the name of your newly created app , the setup process may take
   
 ![](IMAGES/i-3.JPG)  
 
-**Running your app**  
+# Running your app
 Once your setup has been completed , move to your app directory and execute the folloowing command based on your machine type.  
  Windows - npx react-native run-android  
  IOS - npx react-native run-ios — simulator=”iPhone X”  
@@ -35,7 +35,7 @@ Once your setup has been completed , move to your app directory and execute the 
  
  ![](IMAGES/i-4.JPG)  
 
-**Modifying your app**  
+# Modifying your app 
 
 Now that you have successfully run the app, let's modify it.  
 
@@ -50,6 +50,5 @@ Congratulations! You've successfully run and modified your first React Native ap
 
 
 
-LEGEND  
-** Title  
-# Important points 
+
+
